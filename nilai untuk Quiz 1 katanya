@@ -1,0 +1,12 @@
+# pembuktian-array-kapasitas-laptop
+
+public class satu {
+    public static void main(String [] args){
+        
+    int[][][][][][][][][][][][][]  nilai= new int [4][4][4][4][4][4][4][4][4][4][4][4][4];
+    nilai[2][2][2][2][2][2][2][2][2][2][2][2][2]= 1;
+    System.out.println("Nilai ="+ nilai[2][2][2][2][2][2][2][2][2][2][2][2][2]);
+}
+}
+
+Hanya bisa menampung 13 array dimensi
